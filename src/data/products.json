@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "laptop1",
+        "price": 799,
+        "image": "./public/images/236492_MacBook_Pro_16__2023__AKrales_0141.jpg"
+    },
+    {
+        "id": 2,
+        "name": "laptop2",
+        "price": 499,
+        "image": "./public/images/How-to-Choose-a-Laptop-August-2023-Gear.webp"
+    },
+    {
+        "id": 3,
+        "name": "laptop3",
+        "price": 1499,
+        "image": "./public/images/img_0038_2_2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "laptop4",
+        "price": 899,
+        "image": "./public/images/LAASU-X512DA-hg.jpg"
+    },
+    {
+        "id": 5,
+        "name": "laptop5",
+        "price": 599,
+        "image": "./public/images/laptopstopicpage-2048px-2102-2x1-1.webp"
+    }
+]
